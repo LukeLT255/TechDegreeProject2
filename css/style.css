@@ -181,6 +181,10 @@ footer a{
   font-weight: 300;
 }
 
+.footerNav{
+  display: none;
+}
+
 #footerNav{
   display: none;
 }
