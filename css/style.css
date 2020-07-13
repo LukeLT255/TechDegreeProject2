@@ -191,7 +191,7 @@ footer a{
 
 
 
-@media (min-width: 769px){
+@media (min-width: 768px){
 
 
 .main-nav li{
@@ -235,9 +235,6 @@ footer a{
     clear: both;
   }
 
-  /* .main{
-    position:relative;
-  } */
 
   .primary,
   .secondary,
@@ -274,11 +271,6 @@ footer a{
     top: 0%;
   }
 
-
-  .projects{
-    /* overflow: hidden; */
-
-  }
 
   .contact{
     padding-left: 20%;
@@ -360,9 +352,6 @@ footer a{
 
   .calculator{
     position:relative;
-    /* max-height: 33%; */
-    /* width: 100%; */
-    /* float: right; */
     right: 0%;
     top: 0%;
   }
